@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<types>
+	<type id="1" val="اسم" entrans="" />
+	<type id="2" val="اسم إشارة" entrans="" />
+	<type id="3" val="اسم استثناء" entrans="" />
+	<type id="4" val="اسم استفهام" entrans="" />
+	<type id="5" val="اسم جامد" entrans="" />
+	<type id="6" val="اسم شرط" entrans="" />
+	<type id="7" val="اسم صوت" entrans="" />
+	<type id="8" val="اسم فعل أمر" entrans="" />
+	<type id="9" val="اسم فعل ماض" entrans="" />
+	<type id="10" val="اسم فعل مضارع" entrans="" />
+	<type id="11" val="اسم مركب" entrans="" />
+	<type id="12" val="اسم منصوب" entrans="" />
+	<type id="13" val="اسم موصول" entrans="" />
+	<type id="14" val="اسم يفيد الكل" entrans="" />
+	<type id="15" val="جار ومجرور" entrans="" />
+	<type id="16" val="حرف ابتداء" entrans="" />
+	<type id="17" val="حرف احتمال" entrans="" />
+	<type id="18" val="حرف استثناء" entrans="" />
+	<type id="19" val="حرف استفتاح" entrans="" />
+	<type id="20" val="حرف استفهام" entrans="" />
+	<type id="21" val="حرف امتناع" entrans="" />
+	<type id="22" val="حرف تحقيق" entrans="" />
+	<type id="23" val="حرف تسويف للمضارع" entrans="" />
+	<type id="24" val="حرف تعليل" entrans="" />
+	<type id="25" val="حرف تفسير" entrans="" />
+	<type id="26" val="حرف تفصيل" entrans="" />
+	<type id="27" val="حرف تنبيه" entrans="" />
+	<type id="28" val="حرف توقع" entrans="" />
+	<type id="29" val="حرف توكيد" entrans="" />
+	<type id="30" val="حرف جر" entrans="" />
+	<type id="31" val="حرف جزاء" entrans="" />
+	<type id="32" val="حرف جزم" entrans="" />
+	<type id="33" val="حرف جواب" entrans="" />
+	<type id="34" val="حرف زائد" entrans="" />
+	<type id="35" val="حرف شرط" entrans="" />
+	<type id="36" val="حرف عطف" entrans="" />
+	<type id="37" val="حرف فجائي" entrans="" />
+	<type id="38" val="حرف مركب" entrans="" />
+	<type id="39" val="حرف مصدري" entrans="" />
+	<type id="40" val="حرف ناسخ" entrans="" />
+	<type id="41" val="حرف نداء" entrans="" />
+	<type id="42" val="حرف نصب" entrans="" />
+	<type id="43" val="حرف نفي" entrans="" />
+	<type id="44" val="حرف نهي" entrans="" />
+	<type id="45" val="ضمير الغائب" entrans="" />
+	<type id="46" val="ضمير المتكلم" entrans="" />
+	<type id="47" val="ضمير المخاطب" entrans="" />
+	<type id="48" val="ظرف" entrans="" />
+	<type id="49" val="ظرف زمان" entrans="" />
+	<type id="50" val="ظرف مكان" entrans="" />
+	<type id="51" val="فعل" entrans="" />
+	<type id="52" val="فعل أمر جامد" entrans="" />
+	<type id="53" val="فعل ماض جامد" entrans="" />
+	<type id="54" val="فعل مضارع جامد" entrans="" />
+	<type id="55" val="فعل ناسخ" entrans="" />
+	<type id="56" val="من الأسماء الستة" entrans="" />
+</types>

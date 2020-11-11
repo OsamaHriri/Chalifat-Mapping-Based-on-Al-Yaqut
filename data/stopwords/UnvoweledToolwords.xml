@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<toolwords>
+	<toolword unvoweledform="آمين" ids="1" />
+	<toolword unvoweledform="آنذاك" ids="2" />
+	<toolword unvoweledform="آه" ids="3" />
+	<toolword unvoweledform="أبا" ids="4" />
+	<toolword unvoweledform="أبو" ids="5" />
+	<toolword unvoweledform="أبي" ids="6" />
+	<toolword unvoweledform="أثناء" ids="7" />
+	<toolword unvoweledform="أجل" ids="8" />
+	<toolword unvoweledform="أخا" ids="9" />
+	<toolword unvoweledform="أخو" ids="10" />
+	<toolword unvoweledform="أخي" ids="11" />
+	<toolword unvoweledform="أدنى" ids="12" />
+	<toolword unvoweledform="أسبوع" ids="14" />
+	<toolword unvoweledform="أسبوعا" ids="13" />
+	<toolword unvoweledform="ألا" ids="15 16" />
+	<toolword unvoweledform="أم" ids="22" />
+	<toolword unvoweledform="أما" ids="17 19 20 21" />
+	<toolword unvoweledform="أمام" ids="18" />
+	<toolword unvoweledform="أمس" ids="23" />
+	<toolword unvoweledform="أن" ids="25 30 31 32 33" />
+	<toolword unvoweledform="أنا" ids="24 26" />
+	<toolword unvoweledform="أنت" ids="34 38" />
+	<toolword unvoweledform="أنتم" ids="36" />
+	<toolword unvoweledform="أنتما" ids="35" />
+	<toolword unvoweledform="أنتن" ids="37" />
+	<toolword unvoweledform="أنى" ids="27 28 29" />
+	<toolword unvoweledform="أو" ids="39" />
+	<toolword unvoweledform="أولئ" ids="53" />
+	<toolword unvoweledform="أولا" ids="54" />
+	<toolword unvoweledform="أولاء" ids="55" />
+	<toolword unvoweledform="أولى" ids="56" />
+	<toolword unvoweledform="أوه" ids="40" />
+	<toolword unvoweledform="أي" ids="42 43 47 48 49" />
+	<toolword unvoweledform="أيا" ids="41" />
+	<toolword unvoweledform="أيان" ids="44 45 46" />
+	<toolword unvoweledform="أين" ids="50 51 52" />
+	<toolword unvoweledform="إدبار" ids="57" />
+	<toolword unvoweledform="إذ" ids="64 65 66" />
+	<toolword unvoweledform="إذا" ids="58 59 60 61" />
+	<toolword unvoweledform="إذما" ids="67" />
+	<toolword unvoweledform="إذن" ids="62 63" />
+	<toolword unvoweledform="إزاء" ids="68" />
+	<toolword unvoweledform="إلا" ids="72 73" />
+	<toolword unvoweledform="إلى" ids="69" />
+	<toolword unvoweledform="إلي" ids="70 71" />
+	<toolword unvoweledform="إما" ids="74" />
+	<toolword unvoweledform="إن" ids="75 78 79 80 81" />
+	<toolword unvoweledform="إنا" ids="76" />
+	<toolword unvoweledform="إنما" ids="77" />
+	<toolword unvoweledform="إي" ids="82" />
+	<toolword unvoweledform="إياك" ids="84 88" />
+	<toolword unvoweledform="إياكم" ids="86" />
+	<toolword unvoweledform="إياكما" ids="85" />
+	<toolword unvoweledform="إياكن" ids="87" />
+	<toolword unvoweledform="إيانا" ids="89" />
+	<toolword unvoweledform="إياه" ids="91" />
+	<toolword unvoweledform="إياها" ids="90" />
+	<toolword unvoweledform="إياهم" ids="93" />
+	<toolword unvoweledform="إياهما" ids="92" />
+	<toolword unvoweledform="إياهن" ids="94" />
+	<toolword unvoweledform="إياي" ids="95" />
+	<toolword unvoweledform="إيه" ids="83" />
+	<toolword unvoweledform="الآن" ids="106" />
+	<toolword unvoweledform="التي" ids="103" />
+	<toolword unvoweledform="الذي" ids="104" />
+	<toolword unvoweledform="الذين" ids="105" />
+	<toolword unvoweledform="اللائي" ids="96" />
+	<toolword unvoweledform="اللاتي" ids="97" />
+	<toolword unvoweledform="اللتان" ids="98" />
+	<toolword unvoweledform="اللتين" ids="99" />
+	<toolword unvoweledform="اللذان" ids="100" />
+	<toolword unvoweledform="اللذين" ids="101" />
+	<toolword unvoweledform="اللواتي" ids="102" />
+	<toolword unvoweledform="بئس" ids="121" />
+	<toolword unvoweledform="بخ بخ" ids="107 108" />
+	<toolword unvoweledform="برهة" ids="118 119" />
+	<toolword unvoweledform="بعد" ids="109" />
+	<toolword unvoweledform="بعدما" ids="110" />
+	<toolword unvoweledform="بك" ids="122 124" />
+	<toolword unvoweledform="بكرة" ids="120" />
+	<toolword unvoweledform="بكما" ids="123" />
+	<toolword unvoweledform="بل" ids="112" />
+	<toolword unvoweledform="بلى" ids="111" />
+	<toolword unvoweledform="بنا" ids="125" />
+	<toolword unvoweledform="به" ids="127" />
+	<toolword unvoweledform="بها" ids="126" />
+	<toolword unvoweledform="بهم" ids="129" />
+	<toolword unvoweledform="بهما" ids="128" />
+	<toolword unvoweledform="بهن" ids="130" />
+	<toolword unvoweledform="بي" ids="131" />
+	<toolword unvoweledform="بيد" ids="113" />
+	<toolword unvoweledform="بين" ids="114 115" />
+	<toolword unvoweledform="بينا" ids="116" />
+	<toolword unvoweledform="بينما" ids="117" />
+	<toolword unvoweledform="تا" ids="132" />
+	<toolword unvoweledform="تاتا" ids="133" />
+	<toolword unvoweledform="تان" ids="134" />
+	<toolword unvoweledform="تجاه" ids="147" />
+	<toolword unvoweledform="تحت" ids="135" />
+	<toolword unvoweledform="تعال" ids="136" />
+	<toolword unvoweledform="تلقاء" ids="139" />
+	<toolword unvoweledform="تلك" ids="140" />
+	<toolword unvoweledform="تلكم" ids="142" />
+	<toolword unvoweledform="تلكما" ids="141" />
+	<toolword unvoweledform="تلكن" ids="143" />
+	<toolword unvoweledform="ته" ids="144 145" />
+	<toolword unvoweledform="تهي" ids="137" />
+	<toolword unvoweledform="تي" ids="146" />
+	<toolword unvoweledform="تين" ids="138" />
+	<toolword unvoweledform="ثم" ids="148 150 151" />
+	<toolword unvoweledform="ثمة" ids="149" />
+	<toolword unvoweledform="جلل" ids="152" />
+	<toolword unvoweledform="جنوب" ids="154" />
+	<toolword unvoweledform="جنوبا" ids="153" />
+	<toolword unvoweledform="حا" ids="155" />
+	<toolword unvoweledform="حاشا" ids="156" />
+	<toolword unvoweledform="حبذا" ids="157" />
+	<toolword unvoweledform="حتى" ids="158 159 160 161" />
+	<toolword unvoweledform="حما" ids="162" />
+	<toolword unvoweledform="حمو" ids="163" />
+	<toolword unvoweledform="حمي" ids="164" />
+	<toolword unvoweledform="حيث" ids="165" />
+	<toolword unvoweledform="حيثما" ids="166" />
+	<toolword unvoweledform="حين" ids="167" />
+	<toolword unvoweledform="خريف" ids="169" />
+	<toolword unvoweledform="خريفا" ids="168" />
+	<toolword unvoweledform="خلا" ids="170" />
+	<toolword unvoweledform="خلال" ids="172" />
+	<toolword unvoweledform="خلف" ids="171" />
+	<toolword unvoweledform="دده" ids="175" />
+	<toolword unvoweledform="دون" ids="173" />
+	<toolword unvoweledform="دونما" ids="174" />
+	<toolword unvoweledform="ذا" ids="176 177" />
+	<toolword unvoweledform="ذات" ids="178" />
+	<toolword unvoweledform="ذان" ids="179" />
+	<toolword unvoweledform="ذلك" ids="180" />
+	<toolword unvoweledform="ذلكم" ids="182" />
+	<toolword unvoweledform="ذلكما" ids="181" />
+	<toolword unvoweledform="ذلكن" ids="183" />
+	<toolword unvoweledform="ذه" ids="187 188" />
+	<toolword unvoweledform="ذهي" ids="184" />
+	<toolword unvoweledform="ذو" ids="186" />
+	<toolword unvoweledform="ذي" ids="189 190 191" />
+	<toolword unvoweledform="ذين" ids="185" />
+	<toolword unvoweledform="رب" ids="195" />
+	<toolword unvoweledform="ربيع" ids="193" />
+	<toolword unvoweledform="ربيعا" ids="192" />
+	<toolword unvoweledform="ريثما" ids="194" />
+	<toolword unvoweledform="ساء" ids="196" />
+	<toolword unvoweledform="ساعة" ids="197 198" />
+	<toolword unvoweledform="سرعان" ids="199 203" />
+	<toolword unvoweledform="سنة" ids="200 201" />
+	<toolword unvoweledform="سوا" ids="204" />
+	<toolword unvoweledform="سوف" ids="202" />
+	<toolword unvoweledform="سوى" ids="205" />
+	<toolword unvoweledform="سيما" ids="206" />
+	<toolword unvoweledform="شتاء" ids="215" />
+	<toolword unvoweledform="شتاءا" ids="214" />
+	<toolword unvoweledform="شتان" ids="207" />
+	<toolword unvoweledform="شرق" ids="209" />
+	<toolword unvoweledform="شرقا" ids="208" />
+	<toolword unvoweledform="شمال" ids="211" />
+	<toolword unvoweledform="شمالا" ids="210" />
+	<toolword unvoweledform="شهر" ids="213" />
+	<toolword unvoweledform="شهرا" ids="212" />
+	<toolword unvoweledform="شي" ids="216" />
+	<toolword unvoweledform="صباح" ids="218" />
+	<toolword unvoweledform="صباحا" ids="217" />
+	<toolword unvoweledform="صه" ids="219" />
+	<toolword unvoweledform="صيف" ids="221" />
+	<toolword unvoweledform="صيفا" ids="220" />
+	<toolword unvoweledform="طوال" ids="222" />
+	<toolword unvoweledform="ظهر" ids="224" />
+	<toolword unvoweledform="ظهرا" ids="223" />
+	<toolword unvoweledform="عام" ids="226" />
+	<toolword unvoweledform="عاما" ids="225" />
+	<toolword unvoweledform="عدا" ids="227" />
+	<toolword unvoweledform="عسى" ids="228" />
+	<toolword unvoweledform="عشاء" ids="237" />
+	<toolword unvoweledform="عشاءا" ids="236" />
+	<toolword unvoweledform="عصر" ids="230" />
+	<toolword unvoweledform="عصرا" ids="229" />
+	<toolword unvoweledform="على" ids="231" />
+	<toolword unvoweledform="علي" ids="232" />
+	<toolword unvoweledform="عن" ids="234" />
+	<toolword unvoweledform="عنا" ids="233" />
+	<toolword unvoweledform="عند" ids="238 239" />
+	<toolword unvoweledform="عندما" ids="240" />
+	<toolword unvoweledform="عوض" ids="235" />
+	<toolword unvoweledform="غذ" ids="242" />
+	<toolword unvoweledform="غذا" ids="241" />
+	<toolword unvoweledform="غرب" ids="244" />
+	<toolword unvoweledform="غربا" ids="243" />
+	<toolword unvoweledform="غير" ids="245" />
+	<toolword unvoweledform="فا" ids="246" />
+	<toolword unvoweledform="فترة" ids="247 248" />
+	<toolword unvoweledform="فجر" ids="250" />
+	<toolword unvoweledform="فجرا" ids="249" />
+	<toolword unvoweledform="فقط" ids="251" />
+	<toolword unvoweledform="فو" ids="253" />
+	<toolword unvoweledform="فوق" ids="252" />
+	<toolword unvoweledform="في" ids="254 255" />
+	<toolword unvoweledform="قبل" ids="256" />
+	<toolword unvoweledform="قد" ids="257 258 259" />
+	<toolword unvoweledform="قرب" ids="261" />
+	<toolword unvoweledform="قط" ids="260" />
+	<toolword unvoweledform="كأن" ids="262" />
+	<toolword unvoweledform="كأي" ids="263" />
+	<toolword unvoweledform="كخ" ids="272" />
+	<toolword unvoweledform="كذا" ids="264" />
+	<toolword unvoweledform="كل" ids="273" />
+	<toolword unvoweledform="كلا" ids="265 275" />
+	<toolword unvoweledform="كلتا" ids="276" />
+	<toolword unvoweledform="كلما" ids="274" />
+	<toolword unvoweledform="كم" ids="266" />
+	<toolword unvoweledform="كي" ids="267" />
+	<toolword unvoweledform="كيف" ids="268 269 270" />
+	<toolword unvoweledform="كيفما" ids="271" />
+	<toolword unvoweledform="لا" ids="277 278 279" />
+	<toolword unvoweledform="لات" ids="280" />
+	<toolword unvoweledform="لاحبذا" ids="281" />
+	<toolword unvoweledform="لحظة" ids="282 283" />
+	<toolword unvoweledform="لدن" ids="286" />
+	<toolword unvoweledform="لدى" ids="284" />
+	<toolword unvoweledform="لدي" ids="285" />
+	<toolword unvoweledform="لست" ids="287 288 292" />
+	<toolword unvoweledform="لستم" ids="290" />
+	<toolword unvoweledform="لستما" ids="289" />
+	<toolword unvoweledform="لستن" ids="291" />
+	<toolword unvoweledform="لسن" ids="293" />
+	<toolword unvoweledform="لسنا" ids="294" />
+	<toolword unvoweledform="لعل" ids="295" />
+	<toolword unvoweledform="لك" ids="296 298" />
+	<toolword unvoweledform="لكما" ids="297" />
+	<toolword unvoweledform="لكن" ids="299 301" />
+	<toolword unvoweledform="لكنا" ids="300" />
+	<toolword unvoweledform="لم" ids="305 306" />
+	<toolword unvoweledform="لما" ids="302 303 304" />
+	<toolword unvoweledform="لن" ids="308 309" />
+	<toolword unvoweledform="لنا" ids="307" />
+	<toolword unvoweledform="له" ids="311" />
+	<toolword unvoweledform="لها" ids="310" />
+	<toolword unvoweledform="لهم" ids="313" />
+	<toolword unvoweledform="لهما" ids="312" />
+	<toolword unvoweledform="لهن" ids="314" />
+	<toolword unvoweledform="لو" ids="315 316" />
+	<toolword unvoweledform="لولا" ids="317 318" />
+	<toolword unvoweledform="لوما" ids="319 320" />
+	<toolword unvoweledform="لي" ids="329" />
+	<toolword unvoweledform="ليت" ids="321" />
+	<toolword unvoweledform="ليس" ids="322" />
+	<toolword unvoweledform="ليسا" ids="323" />
+	<toolword unvoweledform="ليست" ids="325" />
+	<toolword unvoweledform="ليستا" ids="324" />
+	<toolword unvoweledform="ليسوا" ids="326" />
+	<toolword unvoweledform="ليل" ids="328" />
+	<toolword unvoweledform="ليلا" ids="327" />
+	<toolword unvoweledform="ما" ids="330 331 332 333 334 335" />
+	<toolword unvoweledform="ماذا" ids="336" />
+	<toolword unvoweledform="متى" ids="337 338 339" />
+	<toolword unvoweledform="مذ" ids="351 352" />
+	<toolword unvoweledform="مساء" ids="341" />
+	<toolword unvoweledform="مساءا" ids="340" />
+	<toolword unvoweledform="مع" ids="342 343" />
+	<toolword unvoweledform="مغرب" ids="345" />
+	<toolword unvoweledform="مغربا" ids="344" />
+	<toolword unvoweledform="مما" ids="355" />
+	<toolword unvoweledform="من" ids="346 347 348 357" />
+	<toolword unvoweledform="منا" ids="356" />
+	<toolword unvoweledform="منذ" ids="353 354" />
+	<toolword unvoweledform="مه" ids="349" />
+	<toolword unvoweledform="مهما" ids="350" />
+	<toolword unvoweledform="نحن" ids="358" />
+	<toolword unvoweledform="نحو" ids="359" />
+	<toolword unvoweledform="نخ" ids="363" />
+	<toolword unvoweledform="نعم" ids="360 364" />
+	<toolword unvoweledform="نهار" ids="362" />
+	<toolword unvoweledform="نهارا" ids="361" />
+	<toolword unvoweledform="هؤلاء" ids="365" />
+	<toolword unvoweledform="ها" ids="366 367" />
+	<toolword unvoweledform="هات" ids="370" />
+	<toolword unvoweledform="هاتان" ids="368" />
+	<toolword unvoweledform="هاتي" ids="371" />
+	<toolword unvoweledform="هاتين" ids="369" />
+	<toolword unvoweledform="هاهنا" ids="372" />
+	<toolword unvoweledform="هب" ids="373" />
+	<toolword unvoweledform="هذا" ids="374" />
+	<toolword unvoweledform="هذان" ids="375" />
+	<toolword unvoweledform="هذه" ids="378 379" />
+	<toolword unvoweledform="هذهي" ids="376" />
+	<toolword unvoweledform="هذي" ids="380" />
+	<toolword unvoweledform="هذين" ids="377" />
+	<toolword unvoweledform="هكذا" ids="381" />
+	<toolword unvoweledform="هل" ids="384" />
+	<toolword unvoweledform="هلا" ids="382" />
+	<toolword unvoweledform="هلم" ids="383" />
+	<toolword unvoweledform="هم" ids="394" />
+	<toolword unvoweledform="هما" ids="393" />
+	<toolword unvoweledform="هن" ids="399" />
+	<toolword unvoweledform="هنا" ids="385 389 395 396 401" />
+	<toolword unvoweledform="هناك" ids="397" />
+	<toolword unvoweledform="هنالك" ids="398" />
+	<toolword unvoweledform="هنت" ids="386" />
+	<toolword unvoweledform="هنو" ids="387" />
+	<toolword unvoweledform="هني" ids="388" />
+	<toolword unvoweledform="ههنا" ids="390" />
+	<toolword unvoweledform="هو" ids="400" />
+	<toolword unvoweledform="هي" ids="402" />
+	<toolword unvoweledform="هيا" ids="391" />
+	<toolword unvoweledform="هيهات" ids="392" />
+	<toolword unvoweledform="وا" ids="403 404" />
+	<toolword unvoweledform="واها" ids="405" />
+	<toolword unvoweledform="وراء" ids="406" />
+	<toolword unvoweledform="وسط" ids="407" />
+	<toolword unvoweledform="وي" ids="408" />
+	<toolword unvoweledform="يا" ids="409" />
+	<toolword unvoweledform="يدع" ids="410" />
+	<toolword unvoweledform="يذر" ids="411" />
+	<toolword unvoweledform="يسار" ids="413" />
+	<toolword unvoweledform="يسارا" ids="412" />
+	<toolword unvoweledform="يمين" ids="415" />
+	<toolword unvoweledform="يمينا" ids="414" />
+	<toolword unvoweledform="يوم" ids="417" />
+	<toolword unvoweledform="يومئذ" ids="418" />
+	<toolword unvoweledform="يوما" ids="416" />
+</toolwords>

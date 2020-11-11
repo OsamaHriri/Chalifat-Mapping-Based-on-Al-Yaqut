@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<toolwords>
+	<toolword id="1" voweledform="آمِين"  type="8"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="2" voweledform="آنَذَاكَ"  type="49"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="3" voweledform="آهٍ"  type="10"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="4" voweledform="أَبَا"  type="56"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="في حالة النصب"/>
+	<toolword id="5" voweledform="أَبُو"  type="56"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="في حالة الرفع"/>
+	<toolword id="6" voweledform="أَبِي"  type="56"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="في حالة الجر"/>
+	<toolword id="7" voweledform="أَثْنَاءَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="8" voweledform="أَجَلْ"  type="33"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="9" voweledform="أَخَا"  type="56"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="في حالة النصب"/>
+	<toolword id="10" voweledform="أَخُو"  type="56"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="في حالة الرفع"/>
+	<toolword id="11" voweledform="أَخِي"  type="56"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="في حالة الجر"/>
+	<toolword id="12" voweledform="أَدْنَى"  type="48"  prefclass="C1C2"  suffclass="C1"  priority="119" desc="#"/>
+	<toolword id="13" voweledform="أَسْبُوعًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="14" voweledform="أَسْبُوعَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="15" voweledform="أَلَا"  type="35"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="16" voweledform="أَلَّا"  type="35"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="17" voweledform="أَمَا"  type="19"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="18" voweledform="أَمَامَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="19" voweledform="أَمَّا"  type="26"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="20" voweledform="أَمَّا"  type="29"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="21" voweledform="أَمَّا"  type="35"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="22" voweledform="أَمْ"  type="36"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="23" voweledform="أَمْسِ"  type="49"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="24" voweledform="أَنَا"  type="46"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="للمفرد بنوعيه"/>
+	<toolword id="25" voweledform="أَنَّ"  type="40"  prefclass="C1C2C3C4N4"  suffclass="C1C2C3V1V2"  priority="301" desc="ناسخ"/>
+	<toolword id="26" voweledform="أَنَّا"  type="40"  prefclass="C1"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="27" voweledform="أَنَّى"  type="4"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="عن المكان"/>
+	<toolword id="28" voweledform="أَنَّى"  type="6"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="29" voweledform="أَنَّى"  type="48"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="30" voweledform="أَنْ"  type="25"  prefclass="C1C2C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="31" voweledform="أَنْ"  type="29"  prefclass="C1C2C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="32" voweledform="أَنْ"  type="34"  prefclass="C1C2C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="33" voweledform="أَنْ"  type="39"  prefclass="C1C2C4"  suffclass="C1"  priority="301" desc="ناصب للمضارع"/>
+	<toolword id="34" voweledform="أَنْتَ"  type="47"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="مفرد مذكر"/>
+	<toolword id="35" voweledform="أَنْتُمَا"  type="47"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="للمثنى بنوعيه"/>
+	<toolword id="36" voweledform="أَنْتُمْ"  type="47"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="للجمع المذكر"/>
+	<toolword id="37" voweledform="أَنْتُنَّ"  type="47"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="للجمع المؤنث"/>
+	<toolword id="38" voweledform="أَنْتِ"  type="47"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="للمفرد المؤنث"/>
+	<toolword id="39" voweledform="أَوْ"  type="36"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="40" voweledform="أَوْهِ"  type="10"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="41" voweledform="أَيَا"  type="41"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="للبعيد"/>
+	<toolword id="42" voweledform="أَيّ"  type="6"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="43" voweledform="أَيّ"  type="13"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="للعاقل ولغيره"/>
+	<toolword id="44" voweledform="أَيَّانَ"  type="4"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="عن الزمان"/>
+	<toolword id="45" voweledform="أَيَّانَ"  type="6"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="46" voweledform="أَيَّانَ"  type="49"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="47" voweledform="أَيُّ"  type="4"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="للتخيير"/>
+	<toolword id="48" voweledform="أَيْ"  type="25"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="49" voweledform="أَيْ"  type="41"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="50" voweledform="أَيْنَ"  type="4"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="عن المكان"/>
+	<toolword id="51" voweledform="أَيْنَ"  type="6"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="52" voweledform="أَيْنَ"  type="50"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="53" voweledform="أُوْلَئِ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C2"  priority="301" desc="جمع مذكر أو مؤنث"/>
+	<toolword id="54" voweledform="أُوْلَا"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C2"  priority="301" desc="جمع مذكر أو مؤنث"/>
+	<toolword id="55" voweledform="أُوْلَاءِ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1C2"  priority="301" desc="جمع مذكر أو مؤنث"/>
+	<toolword id="56" voweledform="أُوْلَى"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="جمع مذكر أو مؤنث"/>
+	<toolword id="57" voweledform="إِدْبَارَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="58" voweledform="إِذًا"  type="31"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="ينصب المضارع"/>
+	<toolword id="59" voweledform="إِذًا"  type="33"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="ينصب المضارع"/>
+	<toolword id="60" voweledform="إِذَا"  type="37"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="61" voweledform="إِذَا"  type="49"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="62" voweledform="إِذَنْ"  type="31"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="ينصب المضارع"/>
+	<toolword id="63" voweledform="إِذَنْ"  type="33"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="ينصب المضارع"/>
+	<toolword id="64" voweledform="إِذْ"  type="24"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="65" voweledform="إِذْ"  type="37"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="66" voweledform="إِذْ"  type="49"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="67" voweledform="إِذْمَا"  type="35"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="68" voweledform="إِزَاءَ"  type="48"  prefclass="C1C2C3"  suffclass="C1C2C3N1V1V2"  priority="119" desc="#"/>
+	<toolword id="69" voweledform="إِلَى"  type="30"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="70" voweledform="إِلَيَّ"  type="15"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="71" voweledform="إِلَيْ"  type="15"  prefclass="C1C2C3C4"  suffclass="C2C3"  priority="301" desc="#"/>
+	<toolword id="72" voweledform="إِلَّا"  type="3"  prefclass="C1C2"  suffclass="C1C2C3N1"  priority="301" desc="#"/>
+	<toolword id="73" voweledform="إِلَّا"  type="34"  prefclass="C1C2"  suffclass="C1C2C3N1"  priority="30100%" desc="#"/>
+	<toolword id="74" voweledform="إِمَّا"  type="38"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="إن + ما"/>
+	<toolword id="75" voweledform="إِنَّ"  type="40"  prefclass="C1C2C3C4N4"  suffclass="C1C2C3V1V2"  priority="301" desc="ناسخ"/>
+	<toolword id="76" voweledform="إِنَّا"  type="40"  prefclass="C1"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="77" voweledform="إِنَّمَا"  type="40"  prefclass="C1"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="78" voweledform="إِنْ"  type="29"  prefclass="C1C2C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="79" voweledform="إِنْ"  type="34"  prefclass="C1C2C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="80" voweledform="إِنْ"  type="35"  prefclass="C1C2C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="81" voweledform="إِنْ"  type="43"  prefclass="C1C2C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="82" voweledform="إِي"  type="33"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="83" voweledform="إِيهِ"  type="8"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="84" voweledform="إِيَّاكَ"  type="47"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="مفرد مذكر"/>
+	<toolword id="85" voweledform="إِيَّاكُمَا"  type="47"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="للمثنى بنوعيه"/>
+	<toolword id="86" voweledform="إِيَّاكُمْ"  type="47"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="للجمع المذكر"/>
+	<toolword id="87" voweledform="إِيَّاكُنَّ"  type="47"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="للجمع المؤنث"/>
+	<toolword id="88" voweledform="إِيَّاكِ"  type="47"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="للمفرد المؤنث"/>
+	<toolword id="89" voweledform="إِيَّانَا"  type="46"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="للمثنى والجمع بنوعيه"/>
+	<toolword id="90" voweledform="إِيَّاهَا"  type="45"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="للمفرد المؤنث"/>
+	<toolword id="91" voweledform="إِيَّاهُ"  type="45"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="مفرد مذكر"/>
+	<toolword id="92" voweledform="إِيَّاهُمَا"  type="45"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="للمثنى بنوعيه"/>
+	<toolword id="93" voweledform="إِيَّاهُمْ"  type="45"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="للجمع المذكر"/>
+	<toolword id="94" voweledform="إِيَّاهُنَّ"  type="45"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="للجمع المؤنث"/>
+	<toolword id="95" voweledform="إِيَّايَ"  type="46"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="للمفرد بنوعيه"/>
+	<toolword id="96" voweledform="اللَّائِي"  type="13"  prefclass="C1C2C3N4"  suffclass="C1"  priority="301" desc="جمع مؤنث"/>
+	<toolword id="97" voweledform="اللَّاتِي"  type="13"  prefclass="C1C2C3N4"  suffclass="C1"  priority="301" desc="جمع مؤنث"/>
+	<toolword id="98" voweledform="اللَّتَانِ"  type="13"  prefclass="C1C2C3N4"  suffclass="C1"  priority="301" desc="مثنى مؤنث في حالة الرفع"/>
+	<toolword id="99" voweledform="اللَّتَيْنِ"  type="13"  prefclass="C1C2C3N4"  suffclass="C1"  priority="301" desc="مثنى مؤنث في حالتي النصب والجر"/>
+	<toolword id="100" voweledform="اللَّذَانِ"  type="13"  prefclass="C1C2C3N4"  suffclass="C1"  priority="301" desc="مثنى مذكر في حالة الرفع"/>
+	<toolword id="101" voweledform="اللَّذَيْنِ"  type="13"  prefclass="C1C2C3N4"  suffclass="C1"  priority="301" desc="مثنى مذكر في حالتي النصب والجر"/>
+	<toolword id="102" voweledform="اللَّوَاتِي"  type="13"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="103" desc="#"/>
+	<toolword id="103" voweledform="الَّتِي"  type="13"  prefclass="C1C2C3N4"  suffclass="C1"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="104" voweledform="الَّذِي"  type="13"  prefclass="C1C2C3N4"  suffclass="C1"  priority="301" desc="مفرد مذكر"/>
+	<toolword id="105" voweledform="الَّذِين"  type="13"  prefclass="C1C2C3N4"  suffclass="C1"  priority="301" desc="جمع مذكر"/>
+	<toolword id="106" voweledform="الْآنَ"  type="49"  prefclass="C1C2C3"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="107" voweledform="بَخٍ بَخٍ"  type="10"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="108" voweledform="بَخْ بَخْ"  type="10"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="109" voweledform="بَعْدَ"  type="48"  prefclass="C1C2C3"  suffclass="C1C2C3N1"  priority="119" desc="#"/>
+	<toolword id="110" voweledform="بَعْدَمَا"  type="48"  prefclass="C1C2C3"  suffclass="C1C2C3N1"  priority="119" desc="#"/>
+	<toolword id="111" voweledform="بَلَى"  type="33"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="لإبطال النفي"/>
+	<toolword id="112" voweledform="بَلْ"  type="36"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="113" voweledform="بَيْدَ"  type="12"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="الاستثناء بمعنى غير"/>
+	<toolword id="114" voweledform="بَيْنَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="115" voweledform="بَيْنَ"  type="48"  prefclass="C1C2"  suffclass="C1C2C3N1"  priority="119" desc="#"/>
+	<toolword id="116" voweledform="بَيْنَا"  type="48"  prefclass="C1C2"  suffclass="C1"  priority="119" desc="#"/>
+	<toolword id="117" voweledform="بَيْنَمَا"  type="48"  prefclass="C1C2"  suffclass="C1"  priority="119" desc="#"/>
+	<toolword id="118" voweledform="بُرْهَةً"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="119" voweledform="بُرْهَةَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="120" voweledform="بُكْرَةً"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="121" voweledform="بِئْسَ"  type="53"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="122" voweledform="بِكَ"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="123" voweledform="بِكُمَا"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="124" voweledform="بِكِ"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="125" voweledform="بِنَا"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="126" voweledform="بِهَا"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="127" voweledform="بِهِ"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="128" voweledform="بِهِمَا"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="129" voweledform="بِهِمْ"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="130" voweledform="بِهِنَّ"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="131" voweledform="بِي"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="132" voweledform="تَا"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="133" voweledform="تَاتَا"  type="7"  prefclass="C1"  suffclass="C1"  priority="301" desc="بمعنى الفعل"/>
+	<toolword id="134" voweledform="تَانِ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1C2"  priority="301" desc="مثنى مؤنث في حالة الرفع"/>
+	<toolword id="135" voweledform="تَحْتَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="136" voweledform="تَعَالَ"  type="52"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="137" voweledform="تَهِي"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="138" voweledform="تَيْنِ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1C2"  priority="301" desc="مثنى مؤنث في حالتي النصب والجر"/>
+	<toolword id="139" voweledform="تِلْقَاءَ"  type="48"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="140" voweledform="تِلْكَ"  type="2"  prefclass="C1C2C3C4"  suffclass="C1"  priority="104" desc="مفرد مؤنث"/>
+	<toolword id="141" voweledform="تِلْكُمَا"  type="2"  prefclass="C1C2C3C4"  suffclass="C1"  priority="104" desc="مثنى مؤنث"/>
+	<toolword id="142" voweledform="تِلْكُمْ"  type="2"  prefclass="C1C2C3C4"  suffclass="C1"  priority="104" desc="جمع مذكر"/>
+	<toolword id="143" voweledform="تِلْكُنَّ"  type="2"  prefclass="C1C2C3C4"  suffclass="C1"  priority="104" desc="جمع مؤنث"/>
+	<toolword id="144" voweledform="تِهِ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="145" voweledform="تِهْ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="146" voweledform="تِي"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1C2"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="147" voweledform="تِّجَاهَ"  type="50"  prefclass="C1C2"  suffclass="C1"  priority="119" desc="#"/>
+	<toolword id="148" voweledform="ثَمَّ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="149" voweledform="ثَمَّةَ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="150" voweledform="ثَمَّ"  type="48"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="151" voweledform="ثُمَّ"  type="36"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="152" voweledform="جَلَلْ"  type="33"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="بمعنى نعم"/>
+	<toolword id="153" voweledform="جَنُوبًا"  type="50"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="154" voweledform="جَنُوبَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="155" voweledform="حَا"  type="7"  prefclass="C1"  suffclass="C1"  priority="301" desc="بمعنى الفعل"/>
+	<toolword id="156" voweledform="حَاشَا"  type="51"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="157" voweledform="حَبَّذَا"  type="53"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="158" voweledform="حَتَّى"  type="16"  prefclass="C1C1"  suffclass="C0"  priority="301" desc="#"/>
+	<toolword id="159" voweledform="حَتَّى"  type="30"  prefclass="C1C1"  suffclass="C2"  priority="301" desc="#"/>
+	<toolword id="160" voweledform="حَتَّى"  type="36"  prefclass="C1C0"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="161" voweledform="حَتَّى"  type="42"  prefclass="C1C2"  suffclass="C3"  priority="301" desc="#"/>
+	<toolword id="162" voweledform="حَمَا"  type="56"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="في حالة النصب"/>
+	<toolword id="163" voweledform="حَمُو"  type="56"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="في حالة الرفع"/>
+	<toolword id="164" voweledform="حَمِي"  type="56"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="في حالة الجر"/>
+	<toolword id="165" voweledform="حَيْثُ"  type="50"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="166" voweledform="حَيْثُمَا"  type="6"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="167" voweledform="حِينَ"  type="48"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="168" voweledform="خَرِيفًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="169" voweledform="خَرِيفَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="170" voweledform="خَلَا"  type="51"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="171" voweledform="خَلْفَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="172" voweledform="خِلَالَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C3"  priority="301" desc="#"/>
+	<toolword id="173" voweledform="دُونَ"  type="48"  prefclass="C1C2C3"  suffclass="C1C2C3N1"  priority="119" desc="#"/>
+	<toolword id="174" voweledform="دُونَمَا"  type="48"  prefclass="C1C2C3"  suffclass="C1"  priority="119" desc="#"/>
+	<toolword id="175" voweledform="دِدَّه"  type="7"  prefclass="C1"  suffclass="C1"  priority="301" desc="بمعنى الفعل"/>
+	<toolword id="176" voweledform="ذَا"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1C2"  priority="301" desc="مفرد مذكر"/>
+	<toolword id="177" voweledform="ذَا"  type="56"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="في حالة النصب"/>
+	<toolword id="178" voweledform="ذَاتَ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="179" voweledform="ذَانِ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1C2"  priority="301" desc="مثنى مذكر في حالة الرفع"/>
+	<toolword id="180" voweledform="ذَلِكَ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="104" desc="مفرد مذكر"/>
+	<toolword id="181" voweledform="ذَلِكُمَا"  type="2"  prefclass="C1C2C3C4"  suffclass="C1"  priority="104" desc="مثنى مذكر"/>
+	<toolword id="182" voweledform="ذَلِكُمْ"  type="2"  prefclass="C1C2C3C4"  suffclass="C1"  priority="104" desc="جمع مذكر"/>
+	<toolword id="183" voweledform="ذَلِكُنَّ"  type="2"  prefclass="C1C2C3C4"  suffclass="C1"  priority="104" desc="جمع مؤنث"/>
+	<toolword id="184" voweledform="ذَهِي"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="185" voweledform="ذَيْنِ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1C2"  priority="301" desc="مثنى مذكر في حالتي النصب والجر"/>
+	<toolword id="186" voweledform="ذُو"  type="56"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="في حالة الرفع"/>
+	<toolword id="187" voweledform="ذِهِ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="188" voweledform="ذِهْ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="189" voweledform="ذِي"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="190" voweledform="ذِي"  type="56"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="في حالة الجر"/>
+	<toolword id="191" voweledform="ذِيْ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C2"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="192" voweledform="رَبِيعًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="193" voweledform="رَبِيعَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="194" voweledform="رَيْثَمَا"  type="48"  prefclass="C1C2"  suffclass="C1"  priority="119" desc="#"/>
+	<toolword id="195" voweledform="رُبَّ"  type="30"  prefclass="C1C2C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="196" voweledform="سَاءَ"  type="53"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="197" voweledform="سَاعَةً"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="198" voweledform="سَاعَةَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="199" voweledform="سَرْعَانَ"  type="9"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="200" voweledform="سَنَةً"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="201" voweledform="سَنَةَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="202" voweledform="سَوْفَ"  type="23"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="203" voweledform="سُرْعَانَ"  type="9"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="204" voweledform="سِوَا"  type="18"  prefclass="C1C2"  suffclass="C1C2C3N1"  priority="310" desc="#"/>
+	<toolword id="205" voweledform="سِوَى"  type="18"  prefclass="C1C2"  suffclass="C1"  priority="310" desc="#"/>
+	<toolword id="206" voweledform="سِيَّمَا"  type="11"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="سي + ما"/>
+	<toolword id="207" voweledform="شَتَّانَ"  type="9"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="208" voweledform="شَرْقًا"  type="50"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="209" voweledform="شَرْقَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="210" voweledform="شَمَالًا"  type="50"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="211" voweledform="شَمَالَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="212" voweledform="شَهْرًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="213" voweledform="شَهْرَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="214" voweledform="شِتَاءًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="215" voweledform="شِتَاءَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="216" voweledform="شِي"  type="7"  prefclass="C1"  suffclass="C1"  priority="301" desc="بمعنى الفعل"/>
+	<toolword id="217" voweledform="صَبَاحًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="218" voweledform="صَبَاحَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="219" voweledform="صَهْ"  type="8"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="220" voweledform="صَيْفًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="221" voweledform="صَيْفَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="222" voweledform="طِوَالَ"  type="48"  prefclass="C1C2C3"  suffclass="C1C2C3N1"  priority="119" desc="#"/>
+	<toolword id="223" voweledform="ظُهْرًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="224" voweledform="ظُهْرَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="225" voweledform="عَامًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="226" voweledform="عَامَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="227" voweledform="عَدَا"  type="51"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="228" voweledform="عَسَى"  type="53"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="229" voweledform="عَصْرًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="230" voweledform="عَصْرَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="231" voweledform="عَلَى"  type="50"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="232" voweledform="عَلَيْ"  type="15"  prefclass="C1C2C3C4"  suffclass="C2C3"  priority="301" desc="#"/>
+	<toolword id="233" voweledform="عَنَّا"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="234" voweledform="عَنْ"  type="30"  prefclass="C1C2C3C4"  suffclass="C1C2C3N1"  priority="301" desc="#"/>
+	<toolword id="235" voweledform="عَوْضُ"  type="48"  prefclass="C1"  suffclass="C1"  priority="119" desc="#"/>
+	<toolword id="236" voweledform="عِشَاءًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="237" voweledform="عِشَاءَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="238" voweledform="عِنْدَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="239" voweledform="عِنْدَ"  type="48"  prefclass="C1C2C3"  suffclass="C1C2C3N1"  priority="119" desc="#"/>
+	<toolword id="240" voweledform="عِنْدَمَا"  type="48"  prefclass="C1C2C3"  suffclass="C1C2C3N1"  priority="119" desc="#"/>
+	<toolword id="241" voweledform="غَذًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="242" voweledform="غَذَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="243" voweledform="غَرْبًا"  type="50"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="244" voweledform="غَرْبَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="245" voweledform="غَيْر"  type="3"  prefclass="C1C2"  suffclass="C1C2C3N1"  priority="301" desc="#"/>
+	<toolword id="246" voweledform="فَا"  type="56"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="في حالة النصب"/>
+	<toolword id="247" voweledform="فَتْرَةً"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="248" voweledform="فَتْرَةَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="249" voweledform="فَجْرًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="250" voweledform="فَجْرَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="251" voweledform="فَقَطْ"  type="48"  prefclass="C1"  suffclass="C1C2C3N1"  priority="119" desc="#"/>
+	<toolword id="252" voweledform="فَوْقَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="253" voweledform="فُو"  type="56"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="في حالة الرفع"/>
+	<toolword id="254" voweledform="فِي"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="255" voweledform="فِي"  type="56"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="في حالة الجر"/>
+	<toolword id="256" voweledform="قَبْلَ"  type="50"  prefclass="C1C2C3"  suffclass="C1C2C3N1"  priority="119" desc="#"/>
+	<toolword id="257" voweledform="قَدْ"  type="17"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="258" voweledform="قَدْ"  type="22"  prefclass="C1C2C3C3"  suffclass="C0"  priority="300" desc="#"/>
+	<toolword id="259" voweledform="قَدْ"  type="28"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="260" voweledform="قَطُّ"  type="49"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="261" voweledform="قُرْبَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="262" voweledform="كَأَنَّ"  type="40"  prefclass="C1C2"  suffclass="C1C2C3V1"  priority="301" desc="ناسخ"/>
+	<toolword id="263" voweledform="كَأَيٍّ"  type="11"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="كاف التشبيه + أي"/>
+	<toolword id="264" voweledform="كَذَا"  type="1"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="265" voweledform="كَلَّا"  type="35"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="266" voweledform="كَمْ"  type="4"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="عن العدد"/>
+	<toolword id="267" voweledform="كَيْ"  type="39"  prefclass="C1C2N4"  suffclass="C1"  priority="301" desc="ناصب للمضارع"/>
+	<toolword id="268" voweledform="كَيْفَ"  type="4"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="عن الحال"/>
+	<toolword id="271" voweledform="كَيْفَمَا"  type="6"  prefclass="C1C2"  suffclass="C1"  priority="105" desc="#"/>
+	<toolword id="272" voweledform="كُخّ"  type="7"  prefclass="C1"  suffclass="C1"  priority="301" desc="بمعنى الفعل"/>
+	<toolword id="273" voweledform="كُلَّ"  type="14"  prefclass="C1C2C3"  suffclass="C1C2C3N1"  priority="119" desc="#"/>
+	<toolword id="274" voweledform="كُلَّمَا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="275" voweledform="كِلَا"  type="5"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="276" voweledform="كِلْتَا"  type="5"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="277" voweledform="لَا"  type="34"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="278" voweledform="لَا"  type="43"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="279" voweledform="لَا"  type="44"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="280" voweledform="لَاتَ"  type="43"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="281" voweledform="لَاحَبَّذَا"  type="53"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="282" voweledform="لَحْظَةً"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="283" voweledform="لَحْظَةَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="284" voweledform="لَدَى"  type="50"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="285" voweledform="لَدَيْ"  type="50"  prefclass="C1C2"  suffclass="C2C3"  priority="301" desc="#"/>
+	<toolword id="286" voweledform="لَدُنْ"  type="50"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="287" voweledform="لَسْتَ"  type="55"  prefclass="C1C2"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="288" voweledform="لَسْتُ"  type="55"  prefclass="C1C2"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="289" voweledform="لَسْتُمَا"  type="55"  prefclass="C1C2"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="290" voweledform="لَسْتُمْ"  type="55"  prefclass="C1C2"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="291" voweledform="لَسْتُنَّ"  type="55"  prefclass="C1C2"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="292" voweledform="لَسْتِ"  type="55"  prefclass="C1C2"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="293" voweledform="لَسْنَ"  type="55"  prefclass="C1C2"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="294" voweledform="لَسْنَا"  type="55"  prefclass="C1C2"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="295" voweledform="لَعَلَّ"  type="40"  prefclass="C1C2"  suffclass="C1C2C3V1"  priority="301" desc="ناسخ"/>
+	<toolword id="296" voweledform="لَكَ"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="297" voweledform="لَكُمَا"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="298" voweledform="لَكِ"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="299" voweledform="لَكِنَّ"  type="40"  prefclass="C1C2"  suffclass="C1C2C3V1"  priority="301" desc="ناسخ"/>
+	<toolword id="300" voweledform="لَكِنَّا"  type="40"  prefclass="C1"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="301" voweledform="لَكِنْ"  type="16"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="302" voweledform="لَمَّا"  type="18"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="303" voweledform="لَمَّا"  type="32"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="304" voweledform="لَمَّا"  type="48"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="305" voweledform="لَمْ"  type="32"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="306" voweledform="لَمْ"  type="43"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="307" voweledform="لَنَا"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="308" voweledform="لَنْ"  type="42"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="309" voweledform="لَنْ"  type="43"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="310" voweledform="لَهَا"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="311" voweledform="لَهُ"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="312" voweledform="لَهُمَا"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="313" voweledform="لَهُمْ"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="314" voweledform="لَهُنَّ"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="315" voweledform="لَوْ"  type="35"  prefclass="C1C2C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="316" voweledform="لَوْ"  type="39"  prefclass="C1C2C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="317" voweledform="لَوْلَا"  type="21"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="318" voweledform="لَوْلَا"  type="35"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="319" voweledform="لَوْمَا"  type="21"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="320" voweledform="لَوْمَا"  type="35"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="321" voweledform="لَيْتَ"  type="40"  prefclass="C1C2"  suffclass="C1C2C3V1"  priority="301" desc="#"/>
+	<toolword id="322" voweledform="لَيْسَ"  type="53"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="323" voweledform="لَيْسَا"  type="55"  prefclass="C1C2"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="324" voweledform="لَيْسَتَا"  type="55"  prefclass="C1C2"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="325" voweledform="لَيْسَتْ"  type="55"  prefclass="C1C2"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="326" voweledform="لَيْسُوا"  type="55"  prefclass="C1C2"  suffclass="C1"  priority="104" desc="#"/>
+	<toolword id="327" voweledform="لَيْلًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="328" voweledform="لَيْلَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="329" voweledform="لِي"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="330" voweledform="مَا"  type="4"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="لغير العاقل"/>
+	<toolword id="331" voweledform="مَا"  type="6"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="332" voweledform="مَا"  type="13"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="لغير العاقل"/>
+	<toolword id="333" voweledform="مَا"  type="34"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="334" voweledform="مَا"  type="39"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="335" voweledform="مَا"  type="43"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="336" voweledform="مَاذَا"  type="4"  prefclass="C1C2N4"  suffclass="C1"  priority="301" desc="لغير العاقل"/>
+	<toolword id="337" voweledform="مَتَى"  type="4"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="عن الزمان"/>
+	<toolword id="338" voweledform="مَتَى"  type="6"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="339" voweledform="مَتَى"  type="49"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="340" voweledform="مَسَاءًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="341" voweledform="مَسَاءَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="342" voweledform="مَعَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3N1"  priority="301" desc="#"/>
+	<toolword id="343" voweledform="مَعَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3N1"  priority="301" desc="#"/>
+	<toolword id="344" voweledform="مَغْرِبًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="345" voweledform="مَغْرِبَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="346" voweledform="مَنْ"  type="4"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="للعاقل"/>
+	<toolword id="347" voweledform="مَنْ"  type="6"  prefclass="C1C2C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="348" voweledform="مَنْ"  type="50"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="للعاقل"/>
+	<toolword id="349" voweledform="مَهْ"  type="8"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="350" voweledform="مَهْمَا"  type="35"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="351" voweledform="مُذْ"  type="30"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="352" voweledform="مُذْ"  type="49"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="353" voweledform="مُنْذُ"  type="30"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="354" voweledform="مُنْذُ"  type="49"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="355" voweledform="مِمَّا"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="356" voweledform="مِنَّا"  type="15"  prefclass="C1C2"  suffclass="C1"  priority="118" desc="#"/>
+	<toolword id="357" voweledform="مِنْ"  type="30"  prefclass="C1C2C3C4"  suffclass="C1C2C3N1"  priority="301" desc="#"/>
+	<toolword id="358" voweledform="نَحْنُ"  type="46"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="للمثنى والجمع بنوعيه"/>
+	<toolword id="359" voweledform="نَحْوَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="360" voweledform="نَعَمْ"  type="33"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="للتصديق والإعلام"/>
+	<toolword id="361" voweledform="نَهَارًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="362" voweledform="نَهَارَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="363" voweledform="نِخّ"  type="7"  prefclass="C1"  suffclass="C1"  priority="301" desc="بمعنى الفعل"/>
+	<toolword id="364" voweledform="نِعْمَ"  type="53"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="365" voweledform="هَؤُلَاءِ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="جمع مذكر أو مؤنث"/>
+	<toolword id="366" voweledform="هَا"  type="8"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="367" voweledform="هَا"  type="27"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="368" voweledform="هَاتَانِ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مثنى مؤنث في حالة الرفع"/>
+	<toolword id="369" voweledform="هَاتَيْنِ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مثنى مؤنث في حالتي النصب والجر"/>
+	<toolword id="370" voweledform="هَاتِ"  type="52"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="371" voweledform="هَاتِي"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="372" voweledform="هَاهُنَا"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="373" voweledform="هَبْ"  type="52"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="374" voweledform="هَذَا"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مفرد مذكر"/>
+	<toolword id="375" voweledform="هَذَانِ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مثنى مذكر في حالة الرفع"/>
+	<toolword id="376" voweledform="هَذَهِي"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="377" voweledform="هَذَيْنِ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مثنى مذكر في حالتي النصب والجر"/>
+	<toolword id="378" voweledform="هَذِهِ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="379" voweledform="هَذِهْ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="380" voweledform="هَذِي"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="مفرد مؤنث"/>
+	<toolword id="381" voweledform="هَكَذَا"  type="1"  prefclass="C1C2"  suffclass="C1"  priority="303" desc="#"/>
+	<toolword id="382" voweledform="هَلَا"  type="7"  prefclass="C1"  suffclass="C1"  priority="301" desc="بمعنى الفعل"/>
+	<toolword id="383" voweledform="هَلُمَّ"  type="52"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="384" voweledform="هَلْ"  type="20"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="385" voweledform="هَنَا"  type="56"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="في حالة النصب"/>
+	<toolword id="386" voweledform="هَنَتِ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="387" voweledform="هَنُو"  type="56"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="في حالة الرفع"/>
+	<toolword id="388" voweledform="هَنِي"  type="56"  prefclass="C1C2"  suffclass="C1C2C3"  priority="301" desc="في حالة الجر"/>
+	<toolword id="389" voweledform="هَنَّا"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="390" voweledform="هَهُنَا"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="391" voweledform="هَيَا"  type="41"  prefclass="C1"  suffclass="C1"  priority="308" desc="#"/>
+	<toolword id="392" voweledform="هَيْهَاتَ"  type="9"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="393" voweledform="هُمَا"  type="45"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="للمثنى بنوعيه"/>
+	<toolword id="394" voweledform="هُمْ"  type="45"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="للجمع المذكر"/>
+	<toolword id="395" voweledform="هُنَا"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="396" voweledform="هُنَا"  type="50"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="397" voweledform="هُنَاكَ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="398" voweledform="هُنَالِكَ"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="399" voweledform="هُنَّ"  type="45"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="للجمع المؤنث"/>
+	<toolword id="400" voweledform="هُوَ"  type="45"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="مفرد مذكر"/>
+	<toolword id="401" voweledform="هِنَّا"  type="2"  prefclass="C1C2C3C4N4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="402" voweledform="هِيَ"  type="45"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="للمفرد المؤنث"/>
+	<toolword id="403" voweledform="وَا"  type="10"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="404" voweledform="وَا"  type="41"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="للندبة"/>
+	<toolword id="405" voweledform="وَاهًا"  type="10"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="406" voweledform="وَرَاءَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="407" voweledform="وَسَطَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="408" voweledform="وَيْ"  type="10"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="409" voweledform="يَا"  type="41"  prefclass="C1C2"  suffclass="C1"  priority="301" desc="للبعيد"/>
+	<toolword id="410" voweledform="يَدَع"  type="54"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="411" voweledform="يَذَر"  type="54"  prefclass="C1"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="412" voweledform="يَسَارًا"  type="50"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="413" voweledform="يَسَارَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="414" voweledform="يَمِينًا"  type="50"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="415" voweledform="يَمِينَ"  type="50"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="416" voweledform="يَوْمًا"  type="49"  prefclass="C1C2C3C4"  suffclass="C1"  priority="301" desc="#"/>
+	<toolword id="417" voweledform="يَوْمَ"  type="49"  prefclass="C1C2C3C4"  suffclass="C1C2C3"  priority="301" desc="#"/>
+	<toolword id="418" voweledform="يَوْمَئِذٍ"  type="48"  prefclass="C1"  suffclass="C1"  priority="119" desc="#"/>
+</toolwords>
