@@ -65,6 +65,10 @@ class FSM:
             if char == 't':
                 # on receiving `t` the state moves to `q1`
                 self.current_state = self.q1
+            elif char == 'r':
+                self.current_state = self.q2
+
+
             else:
                 # on receiving any other input, break the loop
                 # so that next time when someone sends any input to

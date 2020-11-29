@@ -6,8 +6,15 @@ import stop_words_handler
 from string import digits
 from string import ascii_letters as end_letters
 from farasa.segmenter import FarasaSegmenter
-# TODO: handle ambigouse Place Names
+from string import ascii_letters as eng_letters
+from string import digits
+from FiniteMachineState import FSM , grep_regex
+
 remove_digits = str.maketrans('', '', digits)
+# TODO: handle ambigouse Place Names
+
+
+
 
 yaqutz_pd = pd.read_excel('data/structured/FullYaqut.xlsx', sheet_name='ALL')
 yaqutz_pd_types = pd.read_excel('data/structured/FullYaqut.xlsx', sheet_name='Type')
@@ -25,18 +32,18 @@ def search_place(palce):
     print("\n".join(s for s in places if palce in s))
 
 
-def clean_text(sentence, hard=False):
+def clean_text(sentence, hard=False,stem=True):
     words = []
 
     if not hard:
         punc = '''</>~%#`÷×؛_()*&^%][ـ/"؟'{}~¦+|!”…“–ـ'''
-        punc = punc + end_letters
+        punc = punc + eng_letters
     else:
         english_punctuations = string.punctuation
         arabic_punctuations = '''`÷×؛_()*&^%][ـ،/:"؟.,'{}~¦+|!”…“–ـ'''
         punc = english_punctuations + arabic_punctuations
 
-    for w in sentence.split(' '):
+    for w in sentence.split():
 
         # Cleaning Numbers
         w = w.translate(remove_digits)
@@ -46,31 +53,141 @@ def clean_text(sentence, hard=False):
             w = w.replace(ch, '')
 
         if any(sep in w for sep in ['.', '،', ':']):
-            w = w[0:-2] + ' ' + w[-1]
+            w = w[0:-1] + ' ' + w[-1]
 
         if not re.search(r'[a-zA-Z]', w):
-            words.append(w)
+            ## here we should handle ب and بال
+            if stem:
+                words.append(stemmer.stem(w))
+            else:
+                words.append(w)
+
     return ' '.join(words)
 
 
-# def _fact_extractor(sentence):
+# def rule_based3(text, _filter=True, debug=False):
+#     text = clean_text(text, stem=False)
 #
-#     index,start_index = 0,0
-#     for word in sentence.split(' '):
+#     entities = []
+#     _dict = []
+#     pattern = re.compile(r" ، | : | . ")
+#     for sentence in pattern.split(text):
+#
+#         _dict = []
+#
+#         #         if debug:
+#         #             print('Sentence = ' + sentence)
+#
+#         tokens = sentence.split()
+#         stem_tokens = stemmer.stem(sentence).split()
+#
+#         for index in range(len(tokens)):
+#
+#             flag = True
+#             for ix in range(3, 0, -1):
+#
+#                 if index + ix < len(sentence.split()) + 1:
+#
+#                     n_gram_clean_token = ' '.join(tokens[index:index + ix])
+#                     #                     if debug:
+#                     #                         print('n_gram = ' + n_gram_clean_token)
+#
+#                     if n_gram_clean_token in ngrams_placenames[str(ix)]:
+#                         _dict.append({'placename': n_gram_clean_token, '@index': index})
+#                         index += ix
+#                         flag = False
+#                         # check for AL- or W-
+#
+#                     else:
+#                         #                         if debug:
+#                         #                             print('no prefix = ' + drop_prefix(n_gram_clean_token) + ' ' +str(ix ) )
+#                         #                             print( drop_prefix(n_gram_clean_token) in ngrams_placenames[str(ix)] )
+#
+#                         if drop_prefix(n_gram_clean_token) in ngrams_placenames[str(ix)]:
+#                             _dict.append({'placename': n_gram_clean_token, '@index': index})
+#                             index += ix
+#                             flag = False
+#
+#             if flag:
+#
+#                 _pre_drop = drop_prefix(tokens[index])
+#                 if tokens[index] in types:
+#
+#                     _dict.append({'type': stem_tokens[index], '@index': index})
+#
+#
+#                 elif _pre_drop in types:
+#
+#                     print(_pre_drop)
+#
+#                     _dict.append({'type': _pre_drop, '@index': index})
+#
+#                 if stem_tokens[index] in preps:
+#                     # TODO:
+#
+#                     _dict.append({'prep': tokens[index], '@index': index})
+#
+#         print(_dict)
+#         if _dict:
+#
+#             if len(_dict) > 3:
+#
+#                 if _filter:
+#
+#                     if parser_and_grep(_dict):
+#                         entities.append(_dict)
+#                 else:
+#                     entities.append(_dict)
+#                 #         print(sentence,_dict)
+#     return entities
+
+def parser_and_grep(_dict):
+    parser = ''
+    evaluator = FSM()
+    for ele in _dict :
+        if 'type' in ele:
+            parser+='t'
+        elif 'prep' in ele:
+            parser += 'r'
+        elif 'placename' in ele:
+            parser += 'p'
 
 
-def window_of_word(sentnce, word, window=1):
+    for ch in parser:
+
+        evaluator.send(ch)
+    return evaluator.does_match()
+
+
+def drop_prefix(phrase):
+    tokens = phrase.split()
+    if (len(tokens) > 0):
+        token = tokens[0]
+        segments = segmentor.segment(token).split('+')
+        if segments[0] in ['و', 'ال', 'أل']:
+            segments = segments[1:]
+            tokens[0] = ''.join(segments)
+        return [' '.join(tokens),segments]
+    return
+
+
+
+def window_of_word(sentnce, word, window=2):
     index, start_index = 0, 0
     sentnce = sentnce.split(' ')
 
     if word in sentnce:
         index = [int(i) for i in range(len(sentnce)) if sentnce[i] == word]
-        print(index)
+
         stride = ' | '
         for i in index:
 
-            for k in range(window * 2 + 1):
-                stride = stride + sentnce[i - window + k] + ' '
+            for k in range(window * 2):
+                print(index,i - window + k,len(sentnce))
+                if i - window + k < len(sentnce):
+                    stride = stride + sentnce[i - window + k] + ' '
+                else:
+                    break
             stride = stride + " | "
 
         return stride
@@ -121,9 +238,9 @@ def _generate_place_relations():
 
 def window_ofword_on_df(word):
     df = yaqutz_pd[['Description', 'PlaceName']]
-    df['Description'] = df['Description'].apply(lambda x: clean_text(x, hard=True))
-    df['Relation_to'] = df['Description'].apply(lambda x: window_of_word(x, word))
-    df[['PlaceName', 'Relation_to']].to_csv(word + 'window_of_token.csv')
+    df['Description'] = df['Description'].apply(lambda x: clean_text(x, hard=True,stem=False))
+    df['Window'] = df['Description'].apply(lambda x: window_of_word(x, word))
+    df[['PlaceName', 'Window']].to_csv(word + 'window_of_token.csv')
 
 
 #
@@ -173,4 +290,3 @@ def _TPP_recognition(text):
     return entities
 
 
-print(_TPP_recognition(' بالجيم المكسورة والنون الساكنة وقاف وألف ونون : وهي قرية من قرى سرخس، ينسب إليها أبو الفضل محمد بن عبد الواحد الآجنقاني ، والعجم آجنكان .'))
