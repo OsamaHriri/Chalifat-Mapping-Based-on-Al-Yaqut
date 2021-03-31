@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<proclitics>
+	<proclitic unvoweledform="" voweledform="" desc="" classe="C1" />
+	<proclitic unvoweledform="أ" voweledform="أَ" desc="همزة الاستفهام" classe="C2" />
+	<proclitic unvoweledform="أال" voweledform="أَال" desc="همزة الاستفهام+ال:التعريف" classe="N2" />
+	<proclitic unvoweledform="أب" voweledform="أَبِ" desc="همزة الاستفهام+حرف الجر" classe="N4" />
+	<proclitic unvoweledform="أبال" voweledform="أَبِال" desc="همزة الاستفهام+حرف الجر+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="أس" voweledform="أَسَ" desc="همزة الاستفهام+سين المستقبل القريب" classe="V1" />
+	<proclitic unvoweledform="أف" voweledform="أَفَ" desc="همزة الاستفهام" classe="C2" />
+	<proclitic unvoweledform="أفال" voweledform="أَفَال" desc="همزة الاستفهام+حرف العطف+ال:التعريف" classe="N2" />
+	<proclitic unvoweledform="أفبال" voweledform="أَفَبِال" desc="همزة الاستفهام+حرف العطف+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="أفس" voweledform="أَفَسَ" desc="همزة الاستفهام+حرف العطف+سين المستقبل القريب" classe="V1" />
+	<proclitic unvoweledform="أفكال" voweledform="أَفَكَال" desc="همزة الاستفهام+حرف العطف+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="أفلل" voweledform="أَفَلِل" desc="همزة الاستفهام+حرف العطف+حرف الجر+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="أك" voweledform="أَكَ" desc="همزة الاستفهام+حرف الجر" classe="N4" />
+	<proclitic unvoweledform="أكال" voweledform="أَكَال" desc="همزة الاستفهام+حرف الجر+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="أل" voweledform="أَلِ" desc="همزة الاستفهام+حرف الجر" classe="N4" />
+	<proclitic unvoweledform="أو" voweledform="أَوَ" desc="همزة الاستفهام" classe="C2" />
+	<proclitic unvoweledform="أوال" voweledform="أَوَال" desc="همزة الاستفهام+حرف العطف+ال:التعريف" classe="N2" />
+	<proclitic unvoweledform="أوبال" voweledform="أَوَبِال" desc="همزة الاستفهام+حرف العطف+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="أوس" voweledform="أَوَسَ" desc="همزة الاستفهام+حرف العطف+سين المستقبل القريب" classe="V1" />
+	<proclitic unvoweledform="أوكال" voweledform="أَوَكَال" desc="همزة الاستفهام+حرف العطف+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="أولل" voweledform="أَوَلِل" desc="همزة الاستفهام+حرف العطف+حرف الجر+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="ال" voweledform="ال" desc="التعريف" classe="N1" />
+	<proclitic unvoweledform="ب" voweledform="بِ" desc="حرف التشبيه" classe="C4" />
+	<proclitic unvoweledform="ب" voweledform="بِ" desc="حرف الجر" classe="N4" />
+	<proclitic unvoweledform="بال" voweledform="بِال" desc="حرف الجر+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="س" voweledform="سَ" desc="سين المستقبل القريب" classe="V1" />
+	<proclitic unvoweledform="ف" voweledform="فَ" desc="حرف العطف أو الاستئناف" classe="C1" />
+	<proclitic unvoweledform="فال" voweledform="فَال" desc="حرف العطف+ال:التعريف" classe="N1" />
+	<proclitic unvoweledform="فب" voweledform="فَبِ" desc="حرف العطف+حرف الجر" classe="N4" />
+	<proclitic unvoweledform="فبال" voweledform="فَبِال" desc="حرف العطف+حرف الجر+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="فس" voweledform="فَسَ" desc="حرف العطف+سين المستقبل القريب" classe="V1" />
+	<proclitic unvoweledform="فك" voweledform="فَكَ" desc="حرف العطف+حرف الجر" classe="N4" />
+	<proclitic unvoweledform="فكال" voweledform="فَكَال" desc="حرف العطف+حرف الجر+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="فل" voweledform="فَلَ" desc="حرف العطف+حرف الابتداء" classe="C3" />
+	<proclitic unvoweledform="فل" voweledform="فَلِ" desc="حرف العطف+حرف الجر" classe="N4" />
+	<proclitic unvoweledform="فل" voweledform="فَلِ" desc="حرف العطف+حرف النصب" classe="V2" />
+	<proclitic unvoweledform="فل" voweledform="فَلْ" desc="حرف العطف+لام الأمر" classe="V3" />
+	<proclitic unvoweledform="فلل" voweledform="فَلَل" desc="حرف العطف+لام التوكيد+ال:التعريف" classe="N3" />
+	<proclitic unvoweledform="فلل" voweledform="فَلِل" desc="حرف العطف+حرف الجر+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="فو" voweledform="فَوَ" desc="حرف العطف+حرف:الجر" classe="N4" />
+	<proclitic unvoweledform="ك" voweledform="كَ" desc="حرف التشبيه" classe="C4" />
+	<proclitic unvoweledform="ك" voweledform="كَ" desc="حرف الجر" classe="N4" />
+	<proclitic unvoweledform="كال" voweledform="كَال" desc="حرف الجر+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="ل" voweledform="لَ" desc="حرف الابتداء" classe="C3" />
+	<proclitic unvoweledform="ل" voweledform="لِ" desc="حرف الجر" classe="N4" />
+	<proclitic unvoweledform="ل" voweledform="لِ" desc="حرف النصب" classe="V2" />
+	<proclitic unvoweledform="ل" voweledform="لِ" desc="لام الأمر" classe="V3" />
+	<proclitic unvoweledform="لب" voweledform="لَبِ" desc="لام التوكيد+حرف الجر" classe="N4" />
+	<proclitic unvoweledform="لبال" voweledform="لَبِال" desc="لام التوكيد+حرف الجر+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="لك" voweledform="لَكَ" desc="لام التوكيد+حرف الجر" classe="N4" />
+	<proclitic unvoweledform="لكال" voweledform="لَكَال" desc="لام التوكيد+حرف الجر+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="لل" voweledform="لَل" desc="لام التوكيد+ال:التعريف" classe="N3" />
+	<proclitic unvoweledform="لل" voweledform="لِل" desc="حرف الجر+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="و" voweledform="وَ" desc="حرف الجر" classe="N4" />
+	<proclitic unvoweledform="و" voweledform="وَ" desc="حرف العطف" classe="C1" />
+	<proclitic unvoweledform="وال" voweledform="وَال" desc="حرف العطف+ال:التعريف" classe="N1" />
+	<proclitic unvoweledform="وب" voweledform="وَبِ" desc="حرف العطف+حرف الجر" classe="N4" />
+	<proclitic unvoweledform="وبال" voweledform="وَبِال" desc="حرف العطف+حرف الجر+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="وس" voweledform="وَسَ" desc="حرف العطف+سين المستقبل القريب" classe="V1" />
+	<proclitic unvoweledform="وك" voweledform="وَكَ" desc="حرف العطف+حرف الجر" classe="N4" />
+	<proclitic unvoweledform="وكال" voweledform="وَكَال" desc="حرف العطف+حرف الجر+ال:التعريف" classe="N5" />
+	<proclitic unvoweledform="ول" voweledform="وَلَ" desc="حرف العطف+حرف الابتداء" classe="C3" />
+	<proclitic unvoweledform="ول" voweledform="وَلِ" desc="حرف العطف+حرف الجر" classe="N4" />
+	<proclitic unvoweledform="ول" voweledform="وَلِ" desc="حرف العطف+حرف النصب" classe="V2" />
+	<proclitic unvoweledform="ول" voweledform="وَلْ" desc="حرف العطف+لام الأمر" classe="V3" />
+	<proclitic unvoweledform="ولل" voweledform="وَلَل" desc="حرف العطف+لام التوكيد+ال:التعريف" classe="N3" />
+	<proclitic unvoweledform="ولل" voweledform="وَلِل" desc="حرف العطف+حرف الجر+ال:التعريف" classe="N5" />
+</proclitics>
